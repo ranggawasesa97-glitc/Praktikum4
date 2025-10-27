@@ -162,8 +162,7 @@ Penjelasan Kode Program:
   - Angka dicetak
   - Counter jumlah bertambah 1
 - Jika angka ≥ 0.5, loop terus berjalan tanpa mencetak dan tanpa menambah counter
-
----
+  
 ## Hasil OUTPUT 
 <img width="1918" height="548" alt="image" src="https://github.com/user-attachments/assets/1423fe2d-d8c2-4aa2-b417-35535aa243ab" />
 
