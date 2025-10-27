@@ -136,7 +136,7 @@ j = 1 → print 1 + 1 = 2
 ## Penjelasan Tugas
 Tugas ini bertujuan untuk membuat program Python yang dapat Menghasilkan dan mencetak angka acak antara 0-1 sebanyak n kali, tetapi hanya angka yang kurang dari 0.5 yang dihitung dan dicetak.
 
-## Kode Program (.py)
+## Kode Program (NilaiN.py)
 
 ```python
 import random
